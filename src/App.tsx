@@ -1,4 +1,4 @@
-import Navbar from "@/scenes/navbar";
+import Navbar from "@/scenes/navbar/index";
 
 const App: React.FC = () => {
   return (
